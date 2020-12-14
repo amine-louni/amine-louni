@@ -2,7 +2,7 @@
 
  
 # Hello, folks!  🤝
-My name is Amin and I'm a fullstack developer. I'm from Algeria,   currently working at Goldencorp, You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Amin and I'm a fullstack developer. I'm from Algeria,   currently working at Goldencorp, You can find me on [![Twitter][1.2]][1] 
 
 
 
