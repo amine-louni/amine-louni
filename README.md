@@ -14,10 +14,7 @@ My name is Amin and I'm a fullstack developer. I'm from Algeria,   currently wor
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Love-react-blue?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-node-green?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-
-
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/MartinHeinz/amine-louni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-louni&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
