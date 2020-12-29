@@ -1,6 +1,10 @@
 # Hello, folks!  🤝
-My name is Amin and I'm a fullstack developer. I'm from Algeria,   currently working at Goldencorp, You can find me on [![Twitter][1.2]][1] 
+My name is Amin and I'm a fullstack developer. I'm from Algeria, currently working at Goldencorp building mobile & web apps
+
+
 ![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--tSq3pK63--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg)
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
