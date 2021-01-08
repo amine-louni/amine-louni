@@ -2,7 +2,7 @@
 My name is Amin and I'm a fullstack developer. I'm from Algeria, currently working at Goldencorp building mobile & web apps
 
 
-![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--tSq3pK63--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg)
+
 
 
 ## 🔧 Technologies & Tools
