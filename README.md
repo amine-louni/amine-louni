@@ -1,5 +1,5 @@
 # Hello, folks!  🤝
-My name is Amin and I'm a fullstack developer. I'm from Algeria, currently working at Goldencorp building mobile & web apps
+My name is Amin and I'm a web|mobile developer from Algeria, currently working at Goldencorp building mobile & web apps
 
 
  
