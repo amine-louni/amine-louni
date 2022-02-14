@@ -4,10 +4,12 @@
 
 
 <p align="left"> <a href="https://twitter.com/amine_louni" target="blank"><img src="https://img.shields.io/twitter/follow/amine_louni?logo=twitter&style=for-the-badge" alt="amine_louni" /></a> </p>
+ 
+ 
 
 - 🔭 I’m currently working on [Yelp clone (side project)](https://github.com/amine-louni/yelp-clone)
 
-- 🌱 I’m currently learning **Elixir, FP, TDD**
+- 🎯 I’m currently learning **Elixir, FP, TDD**
 
 - 👨‍💻 All of my projects are available at [https://www.aminelouni.com/](https://www.aminelouni.com/)
 
