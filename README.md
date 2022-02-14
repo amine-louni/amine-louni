@@ -8,8 +8,8 @@
 
 ▶ I’m currently working  as a **Full-time React/React native developer**.
 
-▶ I’m currently learning **Elixir, FP, TDD**
+▶ I’m currently learning **Elixir, FP, TDD**.
 
-▶ Ask me about **react, front end developement**
+▶ Ask me about **react, front end developement**.
 
-▶ How to reach me **amine.louni.dev@gmail.com**
+▶ How to reach me **amine.louni.dev@gmail.com**.
