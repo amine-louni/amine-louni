@@ -1,7 +1,7 @@
 <h1 align="left">Hello world! 👋, I'm Amine Louni</h1>
 <h4 align="left">Self-taught software engineer 🥑, design enthusiast 👨🏽‍🎨, DevOps hobbyist 🐳 Living in #remote #MERN world</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-louni&label=Profile%20views&color=0e75b6&style=flat" alt="amine-louni" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/amine_louni" target="blank"><img src="https://img.shields.io/twitter/follow/amine_louni?logo=twitter&style=for-the-badge" alt="amine_louni" /></a> </p>
 
