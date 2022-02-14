@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amine Louni</h1>
-<h3 align="center">Self-taught software engineer 🥑, design enthusiast 👨🏽‍🎨, DevOps hobbyist 🐳 Living in #remote #MERN world</h3>
+<h1 align="left">Hello world! 👋, I'm Amine Louni</h1>
+<h4 align="left">Self-taught software engineer 🥑, design enthusiast 👨🏽‍🎨, DevOps hobbyist 🐳 Living in #remote #MERN world</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-louni&label=Profile%20views&color=0e75b6&style=flat" alt="amine-louni" /> </p>
 
