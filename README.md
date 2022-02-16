@@ -6,10 +6,8 @@
 
  
 
-▶ I’m currently working  as a **Full-time React/React native developer**.
+▶ I’m currently working  as a **Full-time React / React native developer**.
 
-▶ I’m currently learning **Elixir, FP, TDD**.
+▶ I’m currently learning **Python, FP, TDD**.
 
-▶ Ask me about **react, front end developement**.
-
-▶ How to reach me **amine.louni.dev@gmail.com**.
+▶ #LivingWithBits
