@@ -8,7 +8,7 @@
 
 ▶ I’m currently working  as a **Full-time React / React native developer**.
 
-▶ I’m currently learning **Typescript, TDD**.
+▶ I’m currently learning **Python, TDD**.
 
 ▶ Current side project [Yelp clone](https://github.com/amine-louni/yelp-clone-api) ( a code review will help 🚀 ).
 
