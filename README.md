@@ -8,7 +8,7 @@
 
 ▶ I’m currently working  as a **Full-time React / React native developer**.
 
-▶ I’m currently learning **Python, TDD**.
+▶ I’m currently learning **PHP, Laravel**.
 
 ▶ Current side project [Algeira review](https://github.com/amine-louni/dz-review) ( a code review will help 🚀 ).
 
