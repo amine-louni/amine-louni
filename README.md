@@ -1,5 +1,5 @@
 <h1 align="left">> Hello world! 👋, I'm Amine Louni</h1>
-<h6 align="left">Self-taught software developer 🥑, design enthusiast 👨🏽‍🎨, DevOps hobbyist 🐳 Living in #remote #MERN world.</h6>
+<h6 align="left">Interested in building  (and occasionally designing) digital products using  #MERN stack and sometimes #php.</h6>
 <br/>
 
 
