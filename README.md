@@ -7,5 +7,5 @@
 
 ▶ I’m currently learning **C# / .net core**.
 
-▶ Current side project [Algeira review](https://github.com/amine-louni/dz-review) ( a code review will help 🚀 ).
+ 
 
